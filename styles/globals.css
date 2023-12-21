@@ -1,0 +1,167 @@
+@media(min-width:600px) {
+    .Home_back {
+        max-width: 72%;
+        margin: 2% 14%;
+        background-color: #fff;
+
+    }
+
+    .color-white {
+        background-color: #fff;
+        padding: 30px 25px;
+        display: flex;
+    }
+    .first_para {
+        padding: 10px 10px;
+    }
+
+    .pdf_content {
+        margin: 5% 23%;
+        border: solid 2px;
+        border-radius: 10px;
+    }
+
+    .pdf_img {
+        margin: 3% 14%;
+        border-radius: 10px;
+    }
+
+    .text_align_link {
+        text-align: justify;
+        padding: 0 15px 0 0;
+    }
+    .pdf_btn {
+        margin: 0% 34% 4% 34%;
+    
+    }
+    .copy_right {
+        justify-content: space-between;
+        padding: 5px 70px;
+    }
+}
+
+@media(max-width:599px) {
+    .color-white {
+        background-color: #fff;
+        padding: 30px 0px;
+    }
+
+    .pdf_content {
+        margin: 5% 1%;
+        border: solid 2px;
+        border-radius: 10px;
+    }
+
+    .pdf_img {
+        margin: 3% 9%;
+        border-radius: 10px;
+    }
+
+    .text_align_link {
+        text-align: justify;
+        padding: 0 5px 0px 5px;
+    }
+    .pdf_btn {
+        margin: 0% 32% 4% 32%;
+    }
+    .copy_right {
+        justify-content: space-between;
+        padding: 5px 20px;
+    }
+    .first_block{
+        padding: 0 10px;
+    }
+    .first_para {
+        padding: 10px 5px;
+    }
+}
+
+.__className_e66fe9 {
+    background-color: #f5a95d;
+
+}
+
+body {
+    background-color: transparent;
+}
+
+.Logo {
+    padding: 15px;
+    font-size: 30px;
+}
+
+
+
+.head_tst {
+    background-color: #EF7906;
+    margin: 0px 10px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 20px;
+}
+
+.head_link {
+    background-color: #EF7906;
+    margin: 0px 10px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px 20px;
+}
+
+
+
+.first_block {
+    border-right: 1px solid #ddd;
+}
+
+a:link,
+a:visited {
+    transition: color .4s;
+    outline: none;
+    color: #d77b05;
+    text-decoration: none;
+    font: bold Arial, Sans-serif;
+
+}
+
+.text_align {
+    text-align: justify;
+}
+
+
+
+.a:active,
+a:hover {
+    text-decoration: none;
+    outline: none;
+    color: #B77819 !important;
+    font: bold Arial, Sans-serif;
+
+}
+
+.footer_section {
+    background-color: #fff;
+}
+
+
+
+.social {
+    width: 45px;
+    font-size: xx-large;
+    list-style-type: none;
+}
+
+.social_ul {
+    margin-top: 20%;
+
+}
+
+
+.head_name {
+    padding: 10px;
+    color: orangered;
+}
+
+
